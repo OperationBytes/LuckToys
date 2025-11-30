@@ -10,4 +10,4 @@
 
 LuckToys requires .NET 9 or 10.
 
-Copyright (C) OperationBytes Studios. All rights reserved.
+Copyright (C) TwistBytes Studios. All rights reserved.
